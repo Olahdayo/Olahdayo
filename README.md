@@ -41,8 +41,8 @@ I am dedicated to continuous learning to keep up with modern web development tre
 - Anything tech-related—I’m always up for a good discussion!
 
 ## 📫 How to reach me:
-- Email: [habeebabdulsalam86@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/abdulsalam-habeeb-9909592a2]
+- Email: [blessinoloyede@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/oloyede-blessing-oladayo-b2b541289/]
 
 
 ## 😄 Pronouns:
