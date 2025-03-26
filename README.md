@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Abdulsalam! 
+# 👋 Hi there, I'm Oladayo! 
 Welcome to my GitHub profile! I'm a passionate full-stack developer specializing in Vue.js and Laravel. I love creating visually appealing and user-friendly web applications.
 
 I'm a software engineering intern at Edutams, constantly learning and evolving in this ever-changing tech world.
@@ -13,7 +13,7 @@ I am dedicated to continuous learning to keep up with modern web development tre
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,php,laravel,stackoverflow,vite,postman,vscode,linkedin,git,github,figma&theme=dark)](https://skillicons.dev)
 
 ### 📈 GitHub Stats
-[![Abdulsalam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olahdayo&show_icons=true&theme=chartreuse-dark&hide_rank=true&count_private=true)](https://github.com/Olahdayo/github-readme-stats)
+[![Olahdayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olahdayo&show_icons=true&theme=chartreuse-dark&hide_rank=true&count_private=true)](https://github.com/Olahdayo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olahdayo&layout=compact&langs_count=20&theme=chartreuse-dark)](https://github.com/Olahdayo/github-readme-stats)
 
 ### 🔥 Streak Stats
